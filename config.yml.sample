@@ -1,0 +1,6 @@
+mastodon:
+  client_id: 1d11ff8b8aac545017cc7bd6d037a0d9ba569fa62e548cc62387dfe6e100175b
+  client_secret: 27b5c9c0c2d269312c826bd490857030e2b1ce72b885f9eecd61dba8690701a3
+  access_token: 29d610031710afc8c56f0def83262a9b831d332efebeab22d8184fb4eab609d6
+  api_base_url: https://mastodon.tetaneutral.net
+  account_query: alx
